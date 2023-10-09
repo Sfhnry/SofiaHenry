@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Bioinformatics student from UTM, Skudai. 
+I am Bioinformatics student from UTM.
 
 ## My Skills
 
@@ -10,6 +10,7 @@ I am Bioinformatics student from UTM, Skudai.
   - Java
   - JavaScript
   - C++
+  - SQL
 - Web Development:
   - HTML/CSS
 
