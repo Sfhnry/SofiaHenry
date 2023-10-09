@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Bioinformatics students from UTM, Skudai. 
+I am Bioinformatics student from UTM, Skudai. 
 
 ## Contact Me
 
